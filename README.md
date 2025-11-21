@@ -8,3 +8,5 @@ Please add a description here including:
 
 The project repository can be found at:
 [project_repo](https://jugit.fz-juelich.de/j.schmoelder/parameter_estimation)
+The output repository can be found at:
+[Link to Project Repository](https://jugit.fz-juelich.de/j.schmoelder/parameter_estimation)
