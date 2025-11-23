@@ -1,0 +1,13 @@
+{
+  "output_repo_commit_message": "Add experimental data; ",
+  "output_repo_branch": "2025-11-23_15-36-31_main_ab9cb48",
+  "output_repo_commit_hash": "6ced936c8f656f6b8275379d83d39343de829b99",
+  "project_repo_commit_hash": "ab9cb4862d1d1ca3e8c1e162a4a37219f508555b",
+  "project_repo_folder_name": "parameter_estimation",
+  "project_repo_remotes": [
+    "git@jugit.fz-juelich.de:j.schmoelder/parameter_estimation.git"
+  ],
+  "python_sys_args": "['/home/jo/software/miniforge3/envs/diss/bin/rdm', 'data', 'import', './output_cached/experimental_data', 'Add experimental data']",
+  "tags": "",
+  "options_hash": null
+}

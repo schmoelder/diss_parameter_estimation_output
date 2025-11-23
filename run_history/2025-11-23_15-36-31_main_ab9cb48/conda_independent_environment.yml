@@ -1,0 +1,16 @@
+name: diss
+channels:
+  - conda-forge
+dependencies:
+  - mdformat-myst
+  - jupytext
+  - python=3.12
+  - scipy
+  - cadet[version='>=5.0.4']
+  - tabulate
+  - pip
+  - jupyter_contrib_nbextensions
+  - jupyter-book
+  - matplotlib
+  - pytest
+prefix: /home/jo/software/miniforge3/envs/diss
