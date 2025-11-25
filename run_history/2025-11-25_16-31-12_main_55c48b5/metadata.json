@@ -1,0 +1,13 @@
+{
+  "output_repo_commit_message": "E1; ",
+  "output_repo_branch": "2025-11-25_16-31-12_main_55c48b5",
+  "output_repo_commit_hash": "9d6d34ee3f91f6547df1c292bd1b6318c71ec5b5",
+  "project_repo_commit_hash": "55c48b53da3e12465256183bda96838d27703eba",
+  "project_repo_folder_name": "parameter_estimation",
+  "project_repo_remotes": [
+    "git@jugit.fz-juelich.de:j.schmoelder/parameter_estimation.git"
+  ],
+  "python_sys_args": "['/home/jo/code/CADET-Process/projects/diss/parameter_estimation/parameter_estimation/dev_run_all.py']",
+  "tags": "",
+  "options_hash": "5cmzfw9st41h1ajyw6r12y5xgwg2xtea"
+}
