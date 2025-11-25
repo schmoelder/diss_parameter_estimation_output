@@ -1,37 +1,14 @@
-name: dev
+name: diss_parameter_estimation
 channels:
   - conda-forge
 dependencies:
-  - matplotlib
-  - numba
   - python=3.12
-  - jupyterlab
-  - networkx
-  - libblas[build=*mkl]
-  - openpyxl
+  - cadet[version='>=5.0']
   - pip
-  - ipympl
   - pytest
-  - spyder=6.0.8
-  - diskcache
-  - jupytext
-  - psutil
-  - cadet[version='>=5.0.3']
-  - spyder-notebook
-  - scipy[version='>=1.14']
-  - prettytable
-  - pytest-cov
-  - numpy
-  - pre-commit
-  - corner
-  - pathos
-  - jupyterlab-deck
-  - opencv
-  - imageio
-  - pipefunc
-  - pooch
-  - scikit-sundae
-  - sundials=7.5.0
-  - jupyter_console
-  - bofire
-prefix: /home/jo/software/miniforge3/envs/dev
+  - git-lfs
+  - ipython
+  - ipykernel
+  - pyzmq
+  - jupyter_client
+prefix: /home/IBT/schmoelder/software/miniforge3/envs/diss_parameter_estimation
