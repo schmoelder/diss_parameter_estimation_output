@@ -1,0 +1,13 @@
+{
+  "output_repo_commit_message": "E6; ",
+  "output_repo_branch": "2025-11-26_22-46-10_main_4d33180",
+  "output_repo_commit_hash": "04d86511b55d41039ae3c513ab6c907f31f47628",
+  "project_repo_commit_hash": "4d331806ef2ae152c431fb95af5d357e6ebb5b95",
+  "project_repo_folder_name": "parameter_estimation",
+  "project_repo_remotes": [
+    "git@jugit.fz-juelich.de:j.schmoelder/parameter_estimation.git"
+  ],
+  "python_sys_args": "['/home/IBT/schmoelder/software/miniforge3/envs/diss_parameter_estimation/lib/python3.12/site-packages/ipykernel_launcher.py', '-f', '/tmp/nvim.schmoelder/xOdBFu/0.json']",
+  "tags": "",
+  "options_hash": "pwmzqkvhffbngwbzycej0rzvd7vj42a7"
+}
