@@ -1,0 +1,14 @@
+name: diss_parameter_estimation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - cadet[version='>=5.0']
+  - pip
+  - pytest
+  - git-lfs
+  - ipython
+  - ipykernel
+  - pyzmq
+  - jupyter_client
+prefix: /home/IBT/schmoelder/software/miniforge3/envs/diss_parameter_estimation
