@@ -1,0 +1,1 @@
+{"prior_branch_name": "2025-11-28_13-58-59_main_281bffa", "commit_message": "E3", "debug": false, "push": true, "_temp_directory_base": {"__class__": "Path", "value": "/dev/shm/schmoelder/CADET-Process/tmp"}, "_cache_directory_base": {"__class__": "Path", "value": "/dev/shm/schmoelder/CADET-Process/cache"}, "_cadet_options": {"install_path": null, "use_dll": true}}
