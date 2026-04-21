@@ -1,0 +1,19 @@
+{
+  "use_synthetic_data": false,
+  "commit_message": "E1",
+  "debug": false,
+  "push": true,
+  "_temp_directory_base": {
+    "__class__": "Path",
+    "value": "/dev/shm/schmoelder/CADET-Process/tmp"
+  },
+  "_cache_directory_base": {
+    "__class__": "Path",
+    "value": "/dev/shm/schmoelder/CADET-Process/cache"
+  },
+  "_cadet_options": {
+    "install_path": null,
+    "use_dll": true
+  },
+  "prior_branch_name": null
+}
