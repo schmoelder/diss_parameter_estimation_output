@@ -1,0 +1,19 @@
+{
+  "include_axial_dispersion": true,
+  "prior_branch_name": "2026-04-21_13-02-43_main_ab1f4f5",
+  "commit_message": "E6",
+  "debug": false,
+  "push": true,
+  "_temp_directory_base": {
+    "__class__": "Path",
+    "value": "/dev/shm/schmoelder/CADET-Process/tmp"
+  },
+  "_cache_directory_base": {
+    "__class__": "Path",
+    "value": "/dev/shm/schmoelder/CADET-Process/cache"
+  },
+  "_cadet_options": {
+    "install_path": null,
+    "use_dll": true
+  }
+}
