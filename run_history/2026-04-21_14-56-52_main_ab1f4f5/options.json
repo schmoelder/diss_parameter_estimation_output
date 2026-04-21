@@ -1,0 +1,24 @@
+{
+  "pH": 5.0,
+  "time_offset": 0.0,
+  "use_peak_times": false,
+  "include_film_diffusion": false,
+  "include_pore_diffusion": false,
+  "is_kinetic": false,
+  "prior_branch_name": "2026-04-21_13-06-13_main_ab1f4f5",
+  "commit_message": "E9",
+  "debug": false,
+  "push": true,
+  "_temp_directory_base": {
+    "__class__": "Path",
+    "value": "/dev/shm/schmoelder/CADET-Process/tmp"
+  },
+  "_cache_directory_base": {
+    "__class__": "Path",
+    "value": "/dev/shm/schmoelder/CADET-Process/cache"
+  },
+  "_cadet_options": {
+    "install_path": null,
+    "use_dll": true
+  }
+}
