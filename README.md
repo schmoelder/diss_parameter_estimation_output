@@ -7,3 +7,5 @@ Please add a description here including:
 
 
 The output repository can be found at: [https://github.com/schmoelder/diss_parameter_estimation](https://github.com/schmoelder/diss_parameter_estimation)
+The output repository can be found at:
+[Link to Project Repository](https://github.com/schmoelder/diss_parameter_estimation)
