@@ -1,0 +1,96 @@
+{
+    "mixer": {
+        "init_liquid_volume": 1.52361081575722e-07
+    },
+    "tubing_pre_injection": {
+        "length": 0.8177701247800019,
+        "diameter": 0.00075,
+        "axial_dispersion": 0.0,
+        "discretization": {
+            "ncol": 100
+        }
+    },
+    "sample_loop": {
+        "discretization": {
+            "ncol": 100
+        }
+    },
+    "tubing_pre_column": {
+        "length": 0.8551011799886521,
+        "diameter": 0.00075,
+        "axial_dispersion": 0.001217392377140403,
+        "discretization": {
+            "ncol": 100
+        }
+    },
+    "column": {
+        "axial_dispersion": {
+            "Acetone": 1.167577044191834e-08,
+            "Blue Dextran": 1.7569092935652624e-07,
+            "Lysozyme": 1.2647705189180084e-07,
+            "Salt": 1e-08,
+            "NaOH": 1e-08
+        },
+        "bed_porosity": 0.29644542238082916,
+        "particle_radius": 1.7e-05,
+        "particle_porosity": 0.7550096241298835,
+        "film_diffusion": {
+            "Acetone": 1.0,
+            "Blue Dextran": 0,
+            "Lysozyme": 1.0,
+            "Salt": 1.0,
+            "NaOH": 1.0
+        },
+        "pore_diffusion": {
+            "Acetone": 1e-09,
+            "Blue Dextran": 0,
+            "Lysozyme": 1e-06,
+            "Salt": 1e-06,
+            "NaOH": 1e-06
+        },
+        "binding_model": {
+            "adsorption_rate": {
+                "Lysozyme": 1e-06,
+                "Salt": 1.0
+            },
+            "desorption_rate": {
+                "Lysozyme": 1.0,
+                "Salt": 1.0
+            },
+            "characteristic_charge": {
+                "Lysozyme": 5.0,
+                "Salt": 1.0
+            },
+            "steric_factor": {
+                "Lysozyme": 0.0,
+                "Salt": 0.0
+            }
+        },
+        "discretization": {
+            "ncol": 100
+        }
+    },
+    "tubing_post_column": {
+        "length": 0.37697849525145577,
+        "diameter": 0.00075,
+        "axial_dispersion": 0.0008789873536773575,
+        "discretization": {
+            "ncol": 100
+        }
+    },
+    "tubing_detectors": {
+        "length": 1.3506777371013738,
+        "diameter": 0.00075,
+        "axial_dispersion": 0.00010019687980856445,
+        "discretization": {
+            "ncol": 100
+        }
+    },
+    "total_capacity": 0.0007655500815404703,
+    "branch_name": "2026-04-21_13-04-52_main_ab1f4f5",
+    "prior_branch_name": "2026-04-21_13-04-52_main_ab1f4f5",
+    "case": "e7_lrmp",
+    "V_NaOH_used": 4.738833333333333e-05,
+    "system_dead_volume": 5.318227254180734e-06,
+    "V_NaOH": 4.207010607915259e-05
+}
