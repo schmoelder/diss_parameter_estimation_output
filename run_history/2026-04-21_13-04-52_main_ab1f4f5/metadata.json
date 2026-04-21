@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "E8; ",
+  "output_repo_branch": "2026-04-21_13-04-52_main_ab1f4f5",
+  "output_repo_commit_hash": "4c9a2a75de25a814d8e5545c636ff04b38127d28",
+  "project_repo_branch": "main",
+  "project_repo_commit_hash": "ab1f4f5878223b6fe4980c8e2c4ce86124360864",
+  "project_repo_directory_name": "diss_parameter_estimation",
+  "project_repo_remotes": [
+    "git@github.com:schmoelder/diss_parameter_estimation.git"
+  ],
+  "python_sys_args": "['/home/IBT/schmoelder/software/miniforge3/envs/diss_parameter_estimation/lib/python3.12/site-packages/ipykernel_launcher.py', '-f', '/tmp/nvim.rQC7y5/0.json']",
+  "tags": "",
+  "options_hash": "21mc92ns1p3am77nwwegwfbvvxw12tqx"
+}
