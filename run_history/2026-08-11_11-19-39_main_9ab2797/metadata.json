@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "E7; ",
+  "output_repo_branch": "2026-08-11_11-19-39_main_9ab2797",
+  "output_repo_commit_hash": "c46efd918018fdc03239805aec684c03b358042c",
+  "project_repo_branch": "main",
+  "project_repo_commit_hash": "9ab279796911a4c909881f1538d49aac176d11e5",
+  "project_repo_directory_name": "diss_parameter_estimation",
+  "project_repo_remotes": [
+    "git@github.com:schmoelder/diss_parameter_estimation.git"
+  ],
+  "python_sys_args": "['parameter_estimation/run_all.py']",
+  "tags": "",
+  "options_hash": "gpdw8e3fm7fff7eh05t6a4fhy6wr02ax"
+}
